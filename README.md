@@ -347,19 +347,15 @@ http://127.0.0.1:5000
 
 # 👨‍💻 Author
 
-**Pothuri Chandra Sai**
+**Likitha Reddy**
 
-B.Tech – Computer Science & Engineering (AI & ML)
+B.Tech – Computer Science & Engineering (CSE)
 
-Anantha Lakshmi Institute of Technology and Sciences
+Annamacharya  Institute of Technology and Sciences,kadapa
 
 ### GitHub
 
-https://github.com/CHANDRASAI9491
-
-### LinkedIn
-
-https://www.linkedin.com/in/chandra-sai-pothuri-a7a4852b6/
+https://github.com/likithacherry15-svg/Smart-Lender-Loan-Eligibility-Prediction-main/tree/main
 
 ---
 
